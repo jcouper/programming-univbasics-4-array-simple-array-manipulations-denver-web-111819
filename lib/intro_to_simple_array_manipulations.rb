@@ -43,6 +43,5 @@ arr.delete(str)
 end
 
 def using_delete_at(arr, int)
-  arr.
-  
+  arr.delete_at(int)
 end
